@@ -1,2 +1,2 @@
 # product-preview-card-component-main
-My SecondFront End Mentor Challenge
+My Second Front End Mentor Challenge
